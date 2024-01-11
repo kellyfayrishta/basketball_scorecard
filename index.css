@@ -12,7 +12,7 @@ body {
 }
 
 .container {
-    background: #0C4A6E; 
+    background: navy; 
     display: flex;
     justify-content: space-around;
 }
